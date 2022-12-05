@@ -1,0 +1,17 @@
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\GameGuard.ClientAntiCheat.dll
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\GameGuard.ClientAntiCheat.pdb
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.dll
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.pdb
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.csproj.CopyComplete
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\GameGuard.ClientAntiCheat.dll.config
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\System.Buffers.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\System.Memory.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.csproj.Fody.CopyLocal.cache
+C:\Users\Администратор\source\repos\GameGuard.ClientAntiCheat\GameGuard.ClientAntiCheat\obj\Debug\GameGuard.ClientAntiCheat.csproj.Fody.RuntimeCopyLocal.cache
